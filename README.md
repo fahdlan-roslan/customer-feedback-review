@@ -7,8 +7,8 @@ Businesses and marketers are struggling with the growing volume of customer feed
 
 ## Documents
 - [Problem statement](https://github.com/fahdlan-roslan/customer-feedback-review/blob/main/problem-statement.md)
-- [Requirements](customer-feedback-review/blob/main/requirements.md)
-- [User stories](customer-feedback-review/blob/main/user-stories.md)
+- [Requirements](https://github.com/fahdlan-roslan/customer-feedback-review/blob/main/requirements.md)
+- [User stories](https://github.com/fahdlan-roslan/customer-feedback-review/blob/main/user-stories.md)
 
 ## Status
 Planning (CSC649, Week 2)
