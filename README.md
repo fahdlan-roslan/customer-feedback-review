@@ -1,2 +1,17 @@
 # customer-feedback-review
+
 The findings help businesses and marketers understand customer opinions, improve marketing strategies, and make data-driven decisions based on real user feedback.
+
+## Problem statement
+Businesses and marketers are struggling with the growing volume of customer feedback, which is collected through various channels such as surveys, online reviews, and social media platforms. Manually reviewing and analyzing this feedback is time-consuming, inefficient, and prone to human error. Consequently, important insights and customer issues may be overlooked or left unaddressed. This situation can have a negative impact on customer satisfaction, brand reputation, and business decision-making processes.
+
+## Documents
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
+
+## Status
+Planning (CSC649, Week 2)
+
+## Author
+Muhammad Fahdlan Bin Roslan
